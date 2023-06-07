@@ -1,9 +1,147 @@
-<mxfile host="app.diagrams.net" modified="2023-06-07T03:26:46.142Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" version="21.1.2" etag="SRgCZ8QBotDyMntsBhUY" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-07T03:42:50.937Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.37" etag="IuY-Fh1wEv0RL-GL5xMV" version="21.1.2" type="github">
   <diagram name="第 1 页" id="shNT01nGOGAqU7qsqvN0">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="S0DseZ6GXQ07Fh0tOySN-48" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="710" y="180" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="S0DseZ6GXQ07Fh0tOySN-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="50" y="180" width="660" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="S0DseZ6GXQ07Fh0tOySN-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S0DseZ6GXQ07Fh0tOySN-2" target="S0DseZ6GXQ07Fh0tOySN-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S0DseZ6GXQ07Fh0tOySN-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="S0DseZ6GXQ07Fh0tOySN-2" target="S0DseZ6GXQ07Fh0tOySN-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S0DseZ6GXQ07Fh0tOySN-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="S0DseZ6GXQ07Fh0tOySN-2" target="S0DseZ6GXQ07Fh0tOySN-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S0DseZ6GXQ07Fh0tOySN-2" value="&lt;p id=&quot;20230607112752-j4nw2r7&quot;&gt;水稻生长环境监测与控制决策&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S0DseZ6GXQ07Fh0tOySN-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S0DseZ6GXQ07Fh0tOySN-3" target="S0DseZ6GXQ07Fh0tOySN-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S0DseZ6GXQ07Fh0tOySN-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="S0DseZ6GXQ07Fh0tOySN-3" target="S0DseZ6GXQ07Fh0tOySN-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S0DseZ6GXQ07Fh0tOySN-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S0DseZ6GXQ07Fh0tOySN-3" target="S0DseZ6GXQ07Fh0tOySN-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S0DseZ6GXQ07Fh0tOySN-3" value="&lt;p id=&quot;20230607112803-neoubp1&quot;&gt;水稻物候期检测与氮肥施用决策&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="255" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S0DseZ6GXQ07Fh0tOySN-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S0DseZ6GXQ07Fh0tOySN-4" target="S0DseZ6GXQ07Fh0tOySN-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S0DseZ6GXQ07Fh0tOySN-4" value="&lt;p id=&quot;20230607112836-w5ng1f4&quot;&gt;水稻病&lt;span data-type=&quot;s strong&quot;&gt;虫&lt;/span&gt;&lt;span data-type=&quot;strong&quot;&gt;害智能识别&lt;/span&gt;与防治决策&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="420" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S0DseZ6GXQ07Fh0tOySN-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S0DseZ6GXQ07Fh0tOySN-5" target="S0DseZ6GXQ07Fh0tOySN-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S0DseZ6GXQ07Fh0tOySN-5" value="&lt;p id=&quot;20230607112847-dj7xwka&quot;&gt;水稻成熟度预期与收获决策&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="560" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S0DseZ6GXQ07Fh0tOySN-6" value="产品区块链溯源" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="765" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="S0DseZ6GXQ07Fh0tOySN-7" value="气象站数获取" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="320" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S0DseZ6GXQ07Fh0tOySN-9" value="数据可视化" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="115" y="320" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S0DseZ6GXQ07Fh0tOySN-11" value="数据库建立" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="320" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S0DseZ6GXQ07Fh0tOySN-15" value="物候期识别" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="320" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S0DseZ6GXQ07Fh0tOySN-16" value="长势分析" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="320" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S0DseZ6GXQ07Fh0tOySN-17" value="变量施肥" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="320" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S0DseZ6GXQ07Fh0tOySN-21" value="病害识别" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="320" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S0DseZ6GXQ07Fh0tOySN-22" value="防治决策" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="320" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S0DseZ6GXQ07Fh0tOySN-23" value="含水量预测" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="320" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S0DseZ6GXQ07Fh0tOySN-24" value="收获决策" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="320" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S0DseZ6GXQ07Fh0tOySN-28" value="水稻智能生产决策" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="180" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S0DseZ6GXQ07Fh0tOySN-37" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="S0DseZ6GXQ07Fh0tOySN-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="280" as="sourcePoint" />
+            <mxPoint x="530" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="300" />
+              <mxPoint x="445" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S0DseZ6GXQ07Fh0tOySN-41" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="S0DseZ6GXQ07Fh0tOySN-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="280" as="sourcePoint" />
+            <mxPoint x="545" y="327.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="300" />
+              <mxPoint x="585" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S0DseZ6GXQ07Fh0tOySN-42" value="环境" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="300" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S0DseZ6GXQ07Fh0tOySN-43" value="管理" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="300" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S0DseZ6GXQ07Fh0tOySN-44" value="加工" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="300" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S0DseZ6GXQ07Fh0tOySN-45" value="流通" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="350" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S0DseZ6GXQ07Fh0tOySN-46" value="品质" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="795" y="350" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S0DseZ6GXQ07Fh0tOySN-47" value="产品" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="350" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S0DseZ6GXQ07Fh0tOySN-49" value="智能生产管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="420" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S0DseZ6GXQ07Fh0tOySN-50" value="小站稻品牌管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="765" y="420" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="S0DseZ6GXQ07Fh0tOySN-51" value="产品" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="350" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S0DseZ6GXQ07Fh0tOySN-52" value="加工" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="300" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S0DseZ6GXQ07Fh0tOySN-53" value="管理" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="300" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="S0DseZ6GXQ07Fh0tOySN-54" value="品质" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="350" width="50" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
